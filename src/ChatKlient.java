@@ -30,7 +30,6 @@ public class ChatKlient {
 			 }
 			
 			 } catch (SocketException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}finally{
 			if (soket!=null){
